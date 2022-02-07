@@ -1,4 +1,4 @@
-# Research
+#Personal Research Projects
 
 Title| Link
 --- | ---
